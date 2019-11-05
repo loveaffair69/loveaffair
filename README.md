@@ -13,7 +13,8 @@ Our goals are to:
  - Bridge social divide - encourage self-accountability,
  - Connect-together and collaborate-with individuals and organizations with a
    shared vision. 
- - Inspire the formation of new organizations and empower them to throw
+ - Inspire the formation of new organizations and empower them to throw 
+   incredible parties! 
 
 ## What does it mean to be inclusive?
 

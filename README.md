@@ -15,13 +15,3 @@ Our goals are to:
    shared vision
  - Inspire the formation of new organizations and empower them to throw 
    incredible parties! 
-
-## What does it mean to be inclusive?
-
-To be inclusive is to be accountable. It is the respnsibility of each individual to be aware of their own actions, words, and behaviour. If you feel that someone is exhibiting problematic behaviour, let them know. Love Affair is for everyone.  
-
-main event pages on github, poster, policy etc.
-
-## Working with Local organizations [change this title]
-
-Through  By working alongside local organizations we will raise interest, awareness, and support while building relationships and bridging social divide to provide each other an outlet for self expression. 

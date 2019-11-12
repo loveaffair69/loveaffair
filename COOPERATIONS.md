@@ -68,12 +68,43 @@ they could fill or improve upon
  
 
 ### Founders
-
- - 
+ 
  - Garnering interest and participation 
  - Divestment of ownership 
  - Delegation of initial tasks
 
-###
- -  
+
+
+### Template
+
+ - Communicate with the membership to conceptualize the event
+ - Plan and organize the event from concept to finish in accordance with the
+   goals and principles of the org
+ - Create and maintain a detailed budget of all expenses, costs, overhead etc
+ - Select the most suitable location or venue; book, prepare, and arrange it
+   for the event
+ - Hire key volunteers and manage staff, as well as special guest appearances,
+   MCs, DJs, Live acts, performers, interactivity, installations/environs, or
+any other suitable entertainment for the event
+ - Build rapport with compatible local organizations in order to collaborate on
+   future events for mutual benefit
+ - Design a layout and agenda of the event;  delegate creative/design/aesthetic
+   work to appropriate collaborators to create event guides, tickets,
+pamphlets, and any other activities to promote the event traditionally or
+digitally with the assistance of our street and marketing teams.
+ - Negotiate and contract with vendors such as photographers,
+   environs/installation artists, food/drink sponsors, AR, tech
+(lighting/sound/stage) transportation services, security, lighting, sound
+equipment, displays, stages, parking, and any other essential item to ensure
+the success of the event
+ - Monitor delivery of goods and services to ensure contract terms are
+   satisfied; adhere to legal, insurance, and health and safety regulations
+ - Attend event to oversee activities and ensure details are handled as
+   planned, and remain on site after the event is over to ensure proper clean
+up and that all aspects of the contractual agreement are fulfilled.
+ - Work with and give guidance to volunteers and staff involved in event
+   planning and execution
+ - Address any dispute(s) that may arise
+ - Perform other related duties as may be assigned or requested by the
+   organization.
 

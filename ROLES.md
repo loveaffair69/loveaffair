@@ -2,11 +2,18 @@
 
 Respsibilities are considered to be compatamentalized 
 
+ - Aestectics Director
+  - Designing the newsletter
+  - 
+
  - Creative Direction
   - Booking
   - Tech
  - Outreach and Voluneering
   - Manage inerest in the projects 
+  - Create and maintain a list of contacts
+  - Maintain a newsletter
+ - Promotion 
  - Internal explicitness
  - 
 
@@ -22,6 +29,7 @@ List of responsibilies
  - Participants are free to appoint themselves to a role which 
 they could fill or improve upon
  - Accountability guidelines... 
+ 
 
 ### Founders
 

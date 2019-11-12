@@ -6,6 +6,8 @@
  - All agreements are to be referenced within this file
  - All agreements are to be made via [consensus](... TODO refernces definitions.md) among full members
  - All decisions are to be made via consensus among full members unless otherwise specified
+ - The mission statement is modified through consensus and defined in [README.md](./README.md#Mission)
+ - The priciples are modified through consensus and defined in [README.md](./README.md#Principles)
 
 ## Financial
  

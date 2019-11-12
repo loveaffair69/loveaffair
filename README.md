@@ -17,3 +17,18 @@ Our goals are to:
    shared vision
  - Inspire the formation of new organizations and empower them to throw 
    incredible parties! 
+
+## Organizational Structure
+
+Love Affair is structured as an non-profit organization. Financial records
+can be found [here](./FINANCIAL.md). 
+
+## Contributing 
+ 
+TODO describe how to contribute to this repo
+
+## Priciples
+
+The following are principles of Love Affair
+ - Fair pay for time and energy
+ - Explicitness  

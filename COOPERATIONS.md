@@ -11,14 +11,14 @@ Forms of membership:
    - membership is gained through: 
      - participation in atleast 3 events, 
      - consensus among existing full members, and,  
-     - acceptance
+     - *acceptance
    - titles are permitted and self-defined
  - Passive 
    - allocated voting power and responsibilies
    - does not block the consensus process for Love Affair organizational structure
    - membership is gained through: 
      - participation in 1 event, and, 
-     - acceptance
+     - [acceptance](./DEFINITIONS.md)
  - XXX-\[EVENTNAME\] (suffix)
    - if an event name is appended to the membership type (i.e. Full/Passive) 
      then the membership is restricted to decisions made which exclusively effect 
@@ -36,7 +36,7 @@ Forms of membership:
 
 All 
 
-Respsibilities are considered to be compatamentalized 
+Respsibilities are considered to be compartamentalized 
 
  - Aestectics Director
   - Designing the newsletter
@@ -53,11 +53,11 @@ Respsibilities are considered to be compatamentalized
  - Internal explicitness
  - 
 
- - Roles are considered to be a collection of responsibilites
+ - Roles are considered to be and are defined by a collection of responsibilites
 
 List of responsibilies
 
- - roles structure are defined per (ROLES.md)[./ROLES.md] 
+ - role structures are defined per (ROLES.md)[./ROLES.md] 
  - decision structure for changes roles are defined per (ROLES.md)[./ROLES.md]
 
 ### Self-Appointment Structure 

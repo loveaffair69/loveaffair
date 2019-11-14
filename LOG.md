@@ -16,3 +16,9 @@
 - Hub outline
 - Definition of roles vs responsibilities
 - Committed to completing definition of expecations for collaborators (both individuals and organizations)
+
+## 14/11/19 - 08:30-5:30 - berschirker
+
+- Expanded DEFINITIONS file
+- Expanded COOPERATIONS file
+- Created BYLAWS file, entered template BYLAWS

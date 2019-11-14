@@ -6,7 +6,7 @@ All "co"-operations must be overseen by the board of directors.(referred to here
 
 The board is to consist of no less than 3 members, and no more than 5 at any given time.
 
-The board is to meet quarterly, and in cases of emergency to review and resolve conflicts or issues, both internal and external, review and update the budget, set specific goals, and monitor efficiencies and progress on projects.  
+The board is to meet quarterly, and in cases of emergency of which all members shall be notified. to review and resolve conflicts or issues, both internal and external, review and update the budget, set specific goals, and monitor efficiencies and progress on projects. Meeting dates, times, and angendas are to be published no less than two weeks (14 days) ahead of the scheduled meeting. All recorded notes are to be published for public consumption immediately upon conclusion.
 
 Responsibilities of the board are:
 

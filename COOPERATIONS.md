@@ -72,10 +72,10 @@ Forms of membership:
 
 ### Members
 
-| Name            | Membership(s)   | Title      |
-| --------------- | --------------- | ---------- |
-| Shrek           | Full            | Co-Founder |
-| FP4K            | Full            | Co-Founder |  
+| Name            | Membership(s)   | Title      | Email |
+| --------------- | --------------- | ---------- | ----- | 
+| Shrek           | Full            | Co-Founder |       |
+| FP4K            | Full            | Co-Founder |       | 
 
 
 # Responsibilies

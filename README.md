@@ -33,7 +33,7 @@ a living product of all those who participate with their time, energy, and love.
 
  ## Contributing
 
- Love affair is based on a system of self appointment, and membership is open to all. Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each contributor is an amalgamation of the responsibilities to which they have appointed themselves. To appoint yourself to any position, we ask that you affix your name next to the applicable responsibilities listed [here](./COOPERATIONS.md). All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md). All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.
+ Love affair operates on a system of self appointment, and membership is open to all. Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each contributor is an amalgamation of the responsibilities to which they have appointed themselves. To appoint yourself to any position, we ask that you affix your name next to the applicable responsibilities listed [here](./COOPERATIONS.md). All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md). All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.
 
 ## Organizational Structure
 

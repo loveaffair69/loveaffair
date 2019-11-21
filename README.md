@@ -5,6 +5,8 @@
 
 Love Affair is currently looking for individuals with an interest in community building to collaborate with us on our first event. No experience necessary. A list of responsibilities integral to the operation of Love Affair can be found [here](./COOPERATIONS.md).
 
+If you are interested in working with us, but don't see anything listed that fits your skillset, please tell us how you would like to contribute. We are open to collaboration in all forms.
+
 ## Mission
 
 Love Affair is an open-source event series that aims to unleash the
@@ -38,8 +40,6 @@ a living product of all those who participate with their time, energy, and love.
 To become a member, first register for a GitHub account here.(ADD LINK)
 
 To appoint yourself to any position, we ask that you affix your name next to the applicable responsibilities listed [here](./COOPERATIONS.md).
-
-If you are interested in working with us, but don't see anything listed that fits your skillset, please tell us how you would like to contribute. We are open to collaboration in all forms.
 
 All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md).
 

@@ -33,7 +33,21 @@ a living product of all those who participate with their time, energy, and love.
 
  ## Contributing
 
- Love affair operates on a system of self appointment, and membership is open to all. Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each contributor is an amalgamation of the responsibilities to which they have appointed themselves. To appoint yourself to any position, we ask that you affix your name next to the applicable responsibilities listed [here](./COOPERATIONS.md). All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md). All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.
+ Love affair operates on a system of self appointment, and membership is open to all.  
+
+To become a member, first register for a GitHub account here.(ADD LINK)
+
+To appoint yourself to any position, we ask that you affix your name next to the applicable responsibilities listed [here](./COOPERATIONS.md).
+
+If you are interested in working with us, but don't see anything listed that fits your skillset, please tell us how you would like to contribute. We are open to collaboration in all forms.
+
+All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md).
+
+Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each member is an amalgamation of the responsibilities to which they have appointed themselves. All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.
+
+## Meetings
+
+Love Affair meets every Tuesday at 2:30 PM (unless otherwise specified) to discuss general purposes and any existing issues in the repository. Public notice of each meeting and its location will be posted each week. All meetings are open to the public.
 
 ## Organizational Structure
 

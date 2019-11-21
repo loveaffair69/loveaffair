@@ -3,6 +3,8 @@
 
 # Love Affair
 
+Love Affair is currently looking for individuals with an interest in community building to collaborate with us on our first event. No experience necessary. A list of responsibilities integral to the operation of Love Affair can be found [here](./COOPERATIONS.md). 
+
 ## Mission
 
 Love Affair is an open-source event series that aims to unleash the
@@ -16,8 +18,7 @@ a living product of all those who participate with their time, energy, and love.
  - Bridge social divide and encourage self-accountability
  - Connect and collaborate with individuals and organizations across a
    shared vision
- - Inspire the formation of new organizations and empower them to throw
-   incredible parties!
+ - Inspire the formation of new organizations and empower them to throw incredible parties!
  - Exemplify alternative organizational structures
 
 **Love Affair is committed to:**

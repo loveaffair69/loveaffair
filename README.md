@@ -31,6 +31,9 @@ a living product of all those who participate with their time, energy, and love.
  - Absolute Transparency
  - Accountability to ourselves and our peers
 
+ ## Contributing
+
+ Love affair is based on a system of self appointment, and membership is open to all. Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each contributor is an amalgamation of the responsibilities to which they have appointed themselves. To appoint yourself to any position, we ask that you affix your name next to the applicable responsibilities listed [here](./COOPERATIONS.md). All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md). All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.
 
 ## Organizational Structure
 
@@ -41,7 +44,3 @@ Each department makes decisions towards its individual goals. Love Affair relies
 In the event of conflict, if an agent, member, or peer of the organization speaks, acts, or behaves in a manner deemed unacceptable by the membership, internally or externally, or if an individual's ability to fulfill their commitments to the organization is brought into question, subsequent action up to and including removal from all activities related to the organization will be decided by consensus among the members.
 
 In keeping with our commitment to absolute transparency, all information pertinent to Love Affair and its operations can be found in this GitHub repository. Detailed financial records can be found [here](./FINANCIAL.md).
-
-## Contributing
-
-Love affair is based on a system of self appointment, and membership is open to all. Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each contributor is an amalgamation of the responsibilities to which they have appointed themselves. To appoint yourself to any position, we ask that you affix your name next to the applicable responsibilities listed [here](./COOPERATIONS.md). All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md). All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.

@@ -19,7 +19,7 @@ a living product of all those who participate with their time, energy, and love.
  - Create and maintain an outlet for self-expression
  - Bridge social divide and encourage self-accountability
  - Connect and collaborate with individuals and organizations across a
-   shared vision
+ shared vision
  - Inspire the formation of new organizations and empower them to throw incredible parties!
  - Exemplify alternative organizational structures
 
@@ -33,7 +33,7 @@ a living product of all those who participate with their time, energy, and love.
  - Absolute Transparency
  - Accountability to ourselves and our peers
 
- ## Contributing
+## Contributing
 
  Love affair operates on a system of self appointment, and membership is open to all.  
 

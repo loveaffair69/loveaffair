@@ -43,7 +43,9 @@ If you are interested in working with us, but don't see anything listed that fit
 
 All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said [agreements](./AGREEMENTS.md).
 
-Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each member is an amalgamation of the responsibilities to which they have appointed themselves. All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.
+Membership is a three-tier system. Information on membership types can be found [here](./MEMBERS.md). The role of each member is an amalgamation of the responsibilities to which they have appointed themselves.
+
+All members, including board members, are at all times accountable to the organization as a whole. All appointments are subject to review at any time by the organization and its membership.
 
 ## Meetings
 

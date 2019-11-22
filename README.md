@@ -35,7 +35,7 @@ a living product of all those who participate with their time, energy, and love.
 
 ## Contributing
 
- Love affair operates on a system of self appointment, and membership is open to all.  
+ Love affair operates on a system of self appointment, and membership is open to all. 
 
 To become a member, first register for a GitHub account here.(ADD LINK)
 

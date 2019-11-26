@@ -1,7 +1,23 @@
 # Protocols
 
-This file contains social and organizational protocols to be observed by all 
+This file contains social and organizational protocols to be observed by all Love Affair member, 
+Love Affair contributors, and participants in Love Affair Events. 
 
+## Social Behaviour 
+
+TODO
+
+## Artist Submission
+
+TODO
+
+## Adding a Responsibility
+
+TODO
+
+## Self-Appointing a Responsibility 
+
+TODO
 
 ## Becoming a Member
 
@@ -31,3 +47,7 @@ amalgamation of the responsibilities to which they have appointed themselves.
 All members, including board members, are at all times accountable to the
 organization as a whole. All appointments are subject to review at any time by
 the organization and its membership.
+
+## Miscellaneous Contributing 
+
+### Modification of Agreement

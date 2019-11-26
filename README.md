@@ -49,30 +49,24 @@ a living product of all those who participate with their time, energy, and love.
 
 ## Contributing
 
-Love affair operates on a system of self appointment, and membership is open to all. To become a member, we ask that you register for a GitHub account.
+Anyone and everyone is invited to contribute to Love Affair! Please 
+see our [Contributing Protocols](./PROTOCOLS.md#miscellaneous-contributing)
 
-Membership is a three-tier system. Information on membership types can be found
-[here](./COOPERATIONS.md#Membership).
-
-The role of each member is an
-amalgamation of the responsibilities to which they have appointed themselves.
-
-To appoint yourself to any position, we ask that you affix your name next to
-the applicable responsibilities listed [here](./COOPERATIONS.md).
-
-All appointments are subject to explicit agreements between the individual and the organization, and are made legitimate only upon documentation of said
-[agreements](./AGREEMENTS.md).
 
 ## Organizational Structure Overview
 
-Love Affair is a decentralized non-profit organization made up of peers. It is organized as a series of autonomous sub-groups which directly interact with each other and share information or provide service to other sub-groups for
-the benefit of the organization as a whole. There is no single centralized authority that makes decisions on behalf of all the parties. Each sub-group makes decisions towards its individual goals.
+Love Affair is a decentralized non-profit organization made up of peers. It is
+organized as a series of autonomous sub-groups which directly interact with
+each other and share information or provide service to other sub-groups for the
+benefit of the organization as a whole. There is no single centralized
+authority that makes decisions on behalf of all the parties. Each sub-group
+makes decisions towards its individual goals.
 
-Love Affair relies
-on the independent decision making power of its (agents)[TODO] and
-sub-group.  
+Love Affair relies on the independent decision making power of its
+(agents)[TODO] and sub-group.  
 
-In keeping with our commitment to absolute transparency, all information pertinent to Love Affair and its operations can be found in this GitHub
+In keeping with our commitment to absolute transparency, all information
+pertinent to Love Affair and its operations can be found in this GitHub
 repository.
 
 Detailed financial records can be found [here](./FINANCIAL.md).

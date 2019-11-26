@@ -18,3 +18,8 @@
  - Full members are ...
  - All full members are listed in ... 
 
+## Promotional
+ 
+ - Event information/posters will be held in the github repository
+ - Viewers of promotional material will always be directed to github hosted
+   material

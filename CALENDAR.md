@@ -30,6 +30,13 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
                       31
 --> 
 
+# General Meeting
+
+Love Affair meets every Tuesday at 2:30 PM (unless otherwise specified) to
+discuss general purposes and any existing issues in the repository. Public
+notice of each meeting and its location will be posted each week. All meetings
+are open to the public.
+
 # Misc Dates
 
 April 18th - Kazoo Final Night

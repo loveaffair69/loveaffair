@@ -2,16 +2,30 @@
 
 The high level "co"-operational requirements of Love Affair are described in this file.
 
-All "co"-operations must be overseen by the board of directors.(referred to herein as "the board.") Board positions are subject to the same terms and conditions as membership, and are considered to be integral to the maintenance of the organization. These positions can be reviewed through the same avenues as any decision made by the members.
+All "co"-operations must be overseen by the board of directors.(referred to
+herein as "the board.") Board positions are subject to the same terms and
+conditions as membership, and are considered to be integral to the maintenance
+of the organization. These positions can be reviewed through the same avenues
+as any decision made by the members.
 
 The board is to consist of no less than 3 members, and no more than 5 at any given time.
 
-The board is to meet quarterly, and in cases of emergency of which all members shall be notified. to review and resolve conflicts or issues, both internal and external, review and update the budget, set specific goals, and monitor efficiencies and progress on projects. Meeting dates, times, and angendas are to be published no less than two weeks (14 days) ahead of the scheduled meeting. All recorded notes are to be published for public consumption immediately upon conclusion.
+The board is to meet quarterly, and in cases of emergency of which all members
+shall be notified. to review and resolve conflicts or issues, both internal and
+external, review and update the budget, set specific goals, and monitor
+efficiencies and progress on projects. Meeting dates, times, and angendas are
+to be published no less than two weeks (14 days) ahead of the scheduled
+meeting. All recorded notes are to be published for public consumption
+immediately upon conclusion.
 
 Responsibilities of the board are:
 
- - governing the organization by establishing broad policies and setting out  -strategic objectives;
- - selecting, appointing, supporting and reviewing the performance of the chief executive (of which the titles vary from organization to organization; the chief executive may be titled chief executive officer, president or executive director);
+ - governing the organization by establishing broad policies and setting out
+   strategic objectives;
+ - selecting, appointing, supporting and reviewing the performance of the chief
+   executive (of which the titles vary from organization to organization; the
+chief executive may be titled chief executive officer, president or executive
+director);
  - reviewing/terminating agents of any office, including the Chair
  - ensuring the availability of adequate financial resources
  - approving annual budgets
@@ -19,33 +33,35 @@ Responsibilities of the board are:
  - setting the salaries, compensation and benefits of members
 
  Board members are expected to:
-  -  Understand and demonstrate a commitment to the organization’s mission and programs
+  -  Understand and demonstrate a commitment to the organization’s mission and
+     programs
   -  Keep up to date with issues and trends that affect the organization
-  -  Prepare for meetings by reading agendas, minutes, reports and other documentation required to actively participate in them
+  -  Prepare for meetings by reading agendas, minutes, reports and other
+     documentation required to actively participate in them
   -  Attend meetings regularly
-  -  Contribute skills and knowledge by participating actively in meetings and committee work
+  -  Contribute skills and knowledge by participating actively in meetings and
+     committee work
   -  Make inquiries when clarification or more information is needed
   -  Understand and monitor the organization’s financial affairs
   -  Avoid any potential conflicts of interest
   -  Understand and maintain confidentiality
-  -  Ensure the organization is complying with all legal and regulatory requirements
+  -  Ensure the organization is complying with all legal and regulatory
+     requirements
 
 Board roles integral to the organization are as follows:
 
 Chair:
- - The Chair is to ensure that the organizations's duties to the members are being fulfilled by acting as a link between the board and upper management.
+ - The Chair is to ensure that the organizations's duties to the members are
+   being fulfilled by acting as a link between the board and upper management.
+Treasurer:
+ - Keep detailed financial records, maintain and update the budget, handle all
+   financial transactions on behalf of the organization and its membership.
+Secretary:
+ - Keep detailed records of events, dates, schedules, issues, conflicts,
+   minutes, and the membership.
 
- Treasurer:
- - Keep detailed financial records, maintain and update the budget, handle all financial transactions on behalf of the organization and its membership.
-
- Secretary:
- - Keep detailed records of events, dates, schedules, issues, conflicts, minutes, and the membership.
-
- Additional board roles will be added as necessitated by the creation of specific departments.
-
-
-
-
+Additional board roles will be added as necessitated by the creation of
+specific departments.
 
 # Membership
 
@@ -61,14 +77,15 @@ Forms of membership:
    - titles are permitted and self-defined
  - Passive
    - allocated voting power and responsibilies
-   - does not block the consensus process for Love Affair organizational structure
+   - does not block the consensus process for Love Affair organizational
+     structure
    - membership is gained through:
      - participation in 1 event, and,
      - [acceptance](./DEFINITIONS.md)
  - XXX-\[EVENTNAME\] (suffix)
    - if an event name is appended to the membership type (i.e. Full/Passive)
-     then the membership is restricted to decisions made which exclusively effect
-     a particular event.
+     then the membership is restricted to decisions made which exclusively
+     effect a particular event.
 
 ### Members
 
@@ -80,14 +97,10 @@ Forms of membership:
 
 # Responsibilies
 
-All
-
-Respsibilities are considered to be compartamentalized
+All respsibilities are considered to be compartamentalized
 
  - Aestectics Director
   - Designing the newsletter
-  -
-
  - Creative Direction
   - Booking
   - Tech
@@ -97,11 +110,11 @@ Respsibilities are considered to be compartamentalized
   - Maintain a newsletter
  - Promotion
  - Internal explicitness
- -
 
- - Roles are considered to be an amalgamation of and are defined by a collection of responsibilites
+Roles are considered to be an amalgamation of and are defined by a collection
+of responsibilites
 
-List of responsibilies
+## List of responsibilies
 
  - role structures are defined per (ROLES.md)[./ROLES.md]
  - decision structure for changes roles are defined per (ROLES.md)[./ROLES.md]
@@ -112,14 +125,11 @@ List of responsibilies
 they could fill or improve upon
  - Accountability guidelines...
 
-
 ### Founders
 
  - Garnering interest and participation
  - Divestment of ownership
  - Delegation of initial tasks
-
-
 
 ### Template
 

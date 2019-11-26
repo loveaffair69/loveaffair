@@ -49,7 +49,7 @@ a living product of all those who participate with their time, energy, and love.
 ## Contributing
 
 Love affair operates on a system of self appointment, and membership is open to
-all. 
+all.
 
 To become a member, first register for a GitHub account.
 
@@ -78,21 +78,8 @@ authority that makes decisions on behalf of all the parties.
 
 Each sub-group makes decisions towards its individual goals. Love Affair relies
 on the independent decision making power of its (agents)[TODO] and
-sub-group. 
-
-Decisions regarding or affecting Love Affair in its entirety must
-be made with the full knowledge and consent of its whole membership. It is the
-direct responsibility of each member to uphold the values and principles of the
-organization, and to act in its best interest.
-
-In the event of conflict, if an agent, member, or peer of the organization
-speaks, acts, or behaves in a manner deemed unacceptable by the membership,
-internally or externally, or if an individual's ability to fulfill their
-commitments to the organization is brought into question, subsequent action up
-to and including removal from all activities related to the organization will
-be decided by consensus among the members.
+sub-group.  
 
 In keeping with our commitment to absolute transparency, all information
 pertinent to Love Affair and its operations can be found in this GitHub
 repository. Detailed financial records can be found [here](./FINANCIAL.md).
-

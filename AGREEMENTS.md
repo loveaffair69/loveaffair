@@ -4,6 +4,10 @@
 
 ## High level
 
+ - Decisions regarding or affecting Love Affair in its entirety must
+ be made with the full knowledge and consent of its whole membership. It is the
+ direct responsibility of each member to uphold the values and principles of the
+ organization, and to act in its best interest.
  - All decisions made outside of this structure are not legitimate
  - All agreements are to be referenced within this file
  - All agreements are to be made via [consensus](... TODO refernces definitions.md) among full members
@@ -22,12 +26,14 @@ In the event of conflict, if an agent, member, or peer of the organization speak
 
 ## Meetings
 
-Meeting dates, times, and locations are made explicit in [CALENDAR.](./CALENDAR.md) Minutes are documented in the [LOG](./LOG.md) In case of Emergency, members will be notified no less than 24 hours before the specified emergency meeting time found in [CALENDAR.](./CALENDAR.md)
+Meeting dates, times, and locations are made explicit in [CALENDAR.](./CALENDAR.md) Minutes are documented in the [LOG](./LOG.md)
+Meeting attendance is not considered mandatory, but acknowledgement of the minutes is, and can be made by affixing your signature to the appropriate date in the LOG file.
+In case of Emergency, members will be notified no less than 24 hours before the specified emergency meeting time found in [CALENDAR.](./CALENDAR.md)
 
 ## Financial
 
  - All assets and transactions shall be documented in [FINANCIAL.md](./FINANCIAL.md)
- 
+
 ## Membership
  - Membership is described [here](COOPERATIONS.md #membership)
 

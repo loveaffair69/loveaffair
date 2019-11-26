@@ -22,21 +22,21 @@ situations we may suggest that folks voluntarily leave to allow things to cool d
 If you are approached to discuss your behaviour please keep an open mind.  
 
 Tips: 
- - love yourself.
+ - love yourself!
  - use good consent. 
  - make space for others.
- - don't use language which insinuates prejudice in any form. 
- - don't be abusive.
- - smile because you're happy.
- - don't give unwanted attention.
- - don't try to convince anyone to have sex with you.
+ - express yourself!
+ - stay positive!
  - respect yourself.
  - respect others.
- - express your appreciation of others.
- - speak up when you feel that someone is exhibiting unwanted behaviour
- - back off when you sense somethings amiss. 
- - don't leer .
- - express yourself!
- - stay positive!  
+ - express appreciation.
+ - speak up when you feel that someone is exhibiting unwanted behaviour.
+ - back off when you sense something amiss. 
+ - don't use language which insinuates prejudice in any form. 
+ - don't be abusive.
+ - don't give unwanted attention.
+ - don't try to convince anyone to have sex with you. 
+ - don't leer.
+ - smile because you're happy.
 
 ___________________________

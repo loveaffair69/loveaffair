@@ -24,15 +24,20 @@ The terms of any contract regarding [work](./definitions.md # work) on behalf of
 
 In the event of conflict, if an agent, member, or peer of the organization speaks, acts, or behaves in a manner deemed unacceptable by the membership, internally or externally, or if an individual's ability to fulfill their commitments to the organization is brought into question, subsequent action up to and including removal from all activities related to the organization will be decided by consensus among the members.
 
+
 ## Meetings
 
 Meeting dates, times, and locations are made explicit in [CALENDAR.](./CALENDAR.md) Minutes are documented in the [LOG](./LOG.md)
 Meeting attendance is not considered mandatory, but acknowledgement of the minutes is, and can be made by affixing your signature to the appropriate date in the LOG file.
 In case of Emergency, members will be notified no less than 24 hours before the specified emergency meeting time found in [CALENDAR.](./CALENDAR.md)
 
+## Liability
+
+ In the event that an action by a member, contractor, volunteer, or other agent of the organization results in loss of or damage to property while carrying out their responsibilities to the organization, except in cases of negligence, Love Affair will cover the financial costs assosciated with said damage or loss.
+
 ## Financial
 
- - All assets and transactions shall be documented in [FINANCIAL.md](./FINANCIAL.md)
+  - All assets and transactions shall be documented in [FINANCIAL.md](./FINANCIAL.md)
 
 ## Membership
  - Membership is described [here](COOPERATIONS.md #membership)

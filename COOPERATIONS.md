@@ -73,7 +73,7 @@ Forms of membership:
    - membership is gained through:
      - participation in atleast 3 events,
      - consensus among existing full members, and,  
-     - *acceptance
+     - *acceptance*
    - titles are permitted and self-defined
  - Passive
    - allocated voting power and responsibilies
@@ -90,9 +90,9 @@ Forms of membership:
 ### Members
 
 | Name            | Membership(s)   | Title      | Email |
-| --------------- | --------------- | ---------- | ----- | 
+| --------------- | --------------- | ---------- | ----- |
 | Shrek           | Full            | Co-Founder |       |
-| FP4K            | Full            | Co-Founder |       | 
+| FP4K            | Full            | Co-Founder |       |
 
 
 # Responsibilies

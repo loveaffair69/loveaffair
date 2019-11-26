@@ -29,8 +29,7 @@ a living product of all those who participate with their time, energy, and love.
 
  - Create and maintain an outlet for self-expression
  - Bridge social divide and encourage self-accountability
- - Connect and collaborate with individuals and organizations across a
-   shared vision
+ - Connect and collaborate with individuals and organizations across a shared vision
  - Inspire the formation of new organizations and empower them to throw
    incredible parties!
  - Exemplify alternative organizational structures
@@ -40,8 +39,7 @@ a living product of all those who participate with their time, energy, and love.
 
 
  - Incentivize direct action and encourage participation
- - Address the systemic barriers of entry to community involvement, event
-   planning, and community organization
+ - Address the systemic barriers of entry to community involvement, event planning, and community organization
  - Document and credit all work done in the name of the organization
  - Fair compensation for work
  - Absolute Transparency

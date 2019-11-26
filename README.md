@@ -37,7 +37,6 @@ a living product of all those who participate with their time, energy, and love.
 
 **Love Affair is committed to:**
 
-
  - Incentivize direct action and encourage participation
  - Address the systemic barriers of entry to community involvement, event planning, and community organization
  - Document and credit all work done in the name of the organization
@@ -49,7 +48,6 @@ a living product of all those who participate with their time, energy, and love.
 
 Anyone and everyone is invited to contribute to Love Affair! Please 
 see our [Contributing Protocols](./PROTOCOLS.md#miscellaneous-contributing)
-
 
 ## Organizational Structure Overview
 

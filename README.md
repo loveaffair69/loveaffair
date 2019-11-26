@@ -46,7 +46,7 @@ a living product of all those who participate with their time, energy, and love.
 
 ## Contributing
 
-Anyone and everyone is invited to contribute to Love Affair! Please 
+Anyone and everyone is invited to contribute to Love Affair! Please
 see our [Contributing Protocols](./PROTOCOLS.md#miscellaneous-contributing)
 
 ## Organizational Structure Overview

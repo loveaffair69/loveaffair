@@ -22,3 +22,18 @@
 - Expanded DEFINITIONS file
 - Expanded COOPERATIONS file
 - Created BYLAWS file, entered template BYLAWS
+
+## 19/11/19
+
+- BYLAWS
+- beefing up docs
+- set goals for next meetings
+
+## 26/11/19
+
+- BYLAWS
+- PROTOCOLS
+- README
+- Safety
+- Agreements
+- SET GOALS FOR NEXT MEETING

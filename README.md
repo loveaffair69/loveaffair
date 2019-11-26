@@ -34,10 +34,11 @@ a living product of all those who participate with their time, energy, and love.
  - Inspire the formation of new organizations and empower them to throw
    incredible parties!
  - Exemplify alternative organizational structures
+ - Reflect and serve the community for which it operates
 
 **Love Affair is committed to:**
 
- - Reflect and serve the community for which it operates
+
  - Incentivize direct action and encourage participation
  - Address the systemic barriers of entry to community involvement, event
    planning, and community organization
@@ -80,6 +81,7 @@ Each sub-group makes decisions towards its individual goals. Love Affair relies
 on the independent decision making power of its (agents)[TODO] and
 sub-group.  
 
-In keeping with our commitment to absolute transparency, all information
-pertinent to Love Affair and its operations can be found in this GitHub
-repository. Detailed financial records can be found [here](./FINANCIAL.md).
+In keeping with our commitment to absolute transparency, all information pertinent to Love Affair and its operations can be found in this GitHub
+repository.
+
+Detailed financial records can be found [here](./FINANCIAL.md).

@@ -1,5 +1,9 @@
 # Agreements
 
+TODO add a conflict of interest section
+TODO add a section of financial year end
+TODO add section on voting proceedures and voting power
+
 *Definitions for terms used in this document can be found* [here](./DEFINITIONS.md)
 
 ## High level

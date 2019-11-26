@@ -8,6 +8,10 @@ conditions as membership, and are considered to be integral to the maintenance
 of the organization. These positions can be reviewed through the same avenues
 as any decision made by the members.
 
+All members, including board members, are at all times accountable to the
+organization as a whole. All appointments are subject to review at any time by
+the organization and its membership.
+
 The board is to consist of no less than 3 members, and no more than 5 at any given time.
 
 The board is to meet quarterly, and in cases of emergency of which all members

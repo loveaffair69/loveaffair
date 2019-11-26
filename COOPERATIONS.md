@@ -13,7 +13,7 @@ The board is to consist of no less than 3 members, and no more than 5 at any giv
 The board is to meet quarterly, and in cases of emergency of which all members
 shall be notified. to review and resolve conflicts or issues, both internal and
 external, review and update the budget, set specific goals, and monitor
-efficiencies and progress on projects. Meeting dates, times, and angendas are
+efficiencies and progress on projects. Meeting dates, times, and agendas are
 to be published no less than two weeks (14 days) ahead of the scheduled
 meeting. All recorded notes are to be published for public consumption
 immediately upon conclusion.
@@ -51,7 +51,7 @@ director);
 Board roles integral to the organization are as follows:
 
 Chair:
- - The Chair is to ensure that the organizations's duties to the members are
+ - The Chair is to ensure that the organizations duties to the members are
    being fulfilled by acting as a link between the board and upper management.
 Treasurer:
  - Keep detailed financial records, maintain and update the budget, handle all
@@ -76,7 +76,7 @@ Forms of membership:
      - *acceptance*
    - titles are permitted and self-defined
  - Passive
-   - allocated voting power and responsibilies
+   - allocated voting power and responsibilities
    - does not block the consensus process for Love Affair organizational
      structure
    - membership is gained through:
@@ -95,26 +95,26 @@ Forms of membership:
 | FP4K            | Full            | Co-Founder |       |
 
 
-# Responsibilies
+# Responsibilities
 
-All respsibilities are considered to be compartamentalized
+All responsibilities are considered to be compartmentalized
 
- - Aestectics Director
+ - Aesthetics Director
   - Designing the newsletter
  - Creative Direction
   - Booking
   - Tech
  - Outreach and Voluneering
-  - Manage inerest in the projects
+  - Manage interest in the projects
   - Create and maintain a list of contacts
   - Maintain a newsletter
  - Promotion
  - Internal explicitness
 
 Roles are considered to be an amalgamation of and are defined by a collection
-of responsibilites
+of responsibilities
 
-## List of responsibilies
+## List of Responsibilities
 
  - role structures are defined per (ROLES.md)[./ROLES.md]
  - decision structure for changes roles are defined per (ROLES.md)[./ROLES.md]

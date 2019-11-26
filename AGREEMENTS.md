@@ -27,7 +27,11 @@ Meeting dates, times, and locations are made explicit in [CALENDAR.](./CALENDAR.
 ## Financial
 
  - All assets and transactions shall be documented in [FINANCIAL.md](./FINANCIAL.md)
-
 ## Membership
-
  - Membership is described [here](COOPERATIONS.md #membership)
+
+## Promotional
+
+ - Event information/posters will be held in the github repository
+ - Viewers of promotional material will always be directed to github hosted
+   material

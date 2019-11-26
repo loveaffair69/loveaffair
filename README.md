@@ -14,7 +14,7 @@ open to collaboration in all forms.
 
 ______
 
-TODO insert Banner
+[TODO insert Banner]
 
 # Love Affair
 
@@ -95,3 +95,4 @@ be decided by consensus among the members.
 In keeping with our commitment to absolute transparency, all information
 pertinent to Love Affair and its operations can be found in this GitHub
 repository. Detailed financial records can be found [here](./FINANCIAL.md).
+

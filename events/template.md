@@ -11,9 +11,9 @@
 
 [Add links to external content such as artist pages / event pages]
 
-## Finanincial 
+## Financial 
 
 Expected Contributions: $0.00
 
-| Name/Organization | Involvement | Garunteed  
+| Name/Organization | Involvement | Guaranteed  
 

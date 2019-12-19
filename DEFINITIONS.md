@@ -7,12 +7,13 @@ ____________________
 any activity commissioned by the organization in direct relation to any aspect of administration, operations, production, services, management, research, development, or a specific project (or projects) deemed integral by the members
 
 #### Paid work
-work requiring explicit monetary compensation. Paid work is subject to binding contract. All work is subject to terms of agreement. Terms of agreements and contracts are defined by the members. Contract/agreement term must not exceed three months. Work is subject to compensation. Compensation is not explicitly monetary, and is decided upon by the members
+
+Work requiring explicit monetary compensation. Paid work is subject to binding contract. All work is subject to terms of agreement. Terms of agreements and contracts are defined by the members. Contract/agreement term must not exceed three months. Work is subject to compensation.
 
 Contractual obligations must be reviewed every meeting.
 
-#### Fair Pay
-Compensation for work decided by consensus among the members.
+#### Compensation
+Compensation may include, but is not limited to, documentation as credit for work, food, beverages, money, apparel or merchandise.
 
 #### Organization
 the full collective body of members
@@ -39,7 +40,8 @@ Any party contracted by the organization to perform any task related to design, 
 Any party contracted by the organization not receiving explicit monetary compensation
 
 #### Verbal-Contract
-TODO
+A binding agreement made between members of the organization in a situation where immediate documentation is not possible
+(i.e during events if a verbal agreement is made between two members it is to be treated as a documented agreement.)
 
 #### Technology
 [define this in reference to technology used as a part of art]

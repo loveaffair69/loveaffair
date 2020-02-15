@@ -96,7 +96,7 @@ Forms of membership:
 | Name            | Membership(s)   | Title      | Email |
 | --------------- | --------------- | ---------- | ----- |
 | Shrek           | Full            | Co-Founder |       |
-| FP4K            | Full            | Co-Founder |       |
+| Frog            | Full            | Co-Founder |       |
 
 
 # Responsibilities

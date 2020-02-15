@@ -2,7 +2,6 @@
 
 Love Affair's first event will be "The Net". 
 
-
 The following is the DJ/Live-Act Line-up:
 
 [unconfirmed] Alexa Hawksworth (MTL)
@@ -21,10 +20,14 @@ Environs -
 
 
 The following is responsibilities which need facilitation
- - physical space coordination (Possible Steve)
+ - physical space coordination
  - door (Possible Adam) 
  - load-in/load-out (Possible Todd) 
  - gear transportation (Possible Liam) 
- - outreach (Possible Nate, Maya) 
- - vibe patrol (Possible Candice)  
- - Getting insurance?
+ - outreach (Possible Maya) 
+ - vibe patrol  
+
+## Distribution 
+
+Unless otherwise specified, equal distribution after expenses between all
+performers with all the promoters combined counting as a single performer. 

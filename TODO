@@ -1,6 +1,6 @@
-LOVEAFFAIRTODO
+<H1>LOVEAFFAIRTODO<h1>
 
-1. GITHUB CLEANUP
+<h2>1. GITHUB CLEANUP</h2>
     1.  Change any references to “event series’ to “online media platform for underground Canadian creative content.”
     2. BRIAN: FINANCES!!!!
     3. Define branches:
@@ -9,7 +9,7 @@ LOVEAFFAIRTODO
         3. LOVEAFFAIR RADIO
     4. Write SOP for signup, pull req, etc… (Rigel?)
     5. Add necessary documents/definitions/clarifications
-2. WEB DESIGN
+<h2>2. WEB DESIGN</h2>
     1. Create post template for blog
     2. Finalize header design
     3. Schedule
@@ -21,7 +21,7 @@ LOVEAFFAIRTODO
     9. Forum design, Chat design
     10. Contact info and mail-to’s
     11. WEB STORE
-3. WEB ADMIN
+<h2>3. WEB ADMIN</h2>
     1. Finalize web store credentials and portals
     2. Consolidate payments and costs to LA account
     3. Create and manage account links

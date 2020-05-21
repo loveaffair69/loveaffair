@@ -16,8 +16,6 @@ open to collaboration in all forms.
 
 ______
 
-[TODO insert Banner]
-
 # Love Affair
 
 ## Mission

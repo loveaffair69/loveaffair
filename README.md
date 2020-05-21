@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/loveaffair69/loveaffair/master/media/Banner.gif" width="900" height="300" />
 
-# 🏗️
-🚧 THIS REPO IS UNDER CONSTRUCTION 🚧
-
-# 🚧 MESSAGE BOARD
+# 🚧 MESSAGE BOARD 🚧
 
 Love Affair is currently looking for individuals with an interest in community
 building to collaborate with us on our first event. No experience necessary. A
@@ -65,4 +62,5 @@ In keeping with our commitment to absolute transparency, all information
 pertinent to Love Affair and its operations can be found in this GitHub
 repository.
 
-Detailed financial records can be found [here](./FINANCIAL.md).
+# 🏗️
+🚧 THIS REPO IS UNDER CONSTRUCTION 🚧
